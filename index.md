@@ -11,3 +11,7 @@ _lets see if it makes it italic_
 - item 2
 - item 3
   - subitem
+
+## let's insert an image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
