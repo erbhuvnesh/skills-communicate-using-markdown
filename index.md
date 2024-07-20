@@ -7,10 +7,9 @@ _lets see if it makes it italic_
 <<< yeah it works >>>
 ## let's make a list
 
-- item1
-- item 2
-- item 3
-  - subitem
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ## let's insert an image
 
